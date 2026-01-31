@@ -5,12 +5,7 @@
 - Create a container with the name “lastName_firstName_coding_assignment11”
 - Host the site files in a workdir “lastName_firstName_site” 
 
-### 1. Open App.js
-function App() {
-  return <h1>Codin 1</h1>;
-}
-
-export default App;
+### 1. Open App.js and type Codin 1 inside <h1> tag.
 
 ### 2. Build a Docker image
 From the project root directory, run
