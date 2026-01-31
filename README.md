@@ -1,7 +1,7 @@
 # Coding Assignment 11: Docker File
 
 ## Requirements
-- Create a development environment that displays a <h1>tag with text "Codin 1" inside
+- Create a development environment that displays a h1 tag with text "Codin 1" inside
 - Create a container with the name “lastName_firstName_coding_assignment11”
 - Host the site files in a workdir “lastName_firstName_site” 
 
