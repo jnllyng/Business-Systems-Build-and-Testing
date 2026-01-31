@@ -6,7 +6,13 @@
 - Host the site files in a workdir “lastName_firstName_site” 
 
 ### 1. Open App.js and type Codin 1 inside h1 tag.
+```bash
+function App() {
+  return <h1>Codin 1</h1>;
+}
 
+export default App;
+```
 ### 2. Build a Docker image
 From the project root directory, run
 ```bash
