@@ -1,9 +1,5 @@
 # Coding Assignment 11: Docker File
 
-This project sets up a Docker-based development environment for a Create React App that displays the following content:
-
-<h1>Codin 1</h1>
-
 ## Requirements
 - Docker Desktop installed and running
 
