@@ -1,5 +1,3 @@
-# Coding Assignment 11: Docker File
-
 ## Requirements
 - Create a development environment that displays a h1 tag with text "Codin 1" inside
 - Create a container with the name “lastName_firstName_coding_assignment11”
@@ -29,3 +27,9 @@ http://127.0.0.1:7775
 - The container uses Node.js LTS and runs the Create React App development server.
 - Inside the container, the server binds to 0.0.0.0 so it can be accessed from the host at localhost:7775.
 - The application files are hosted in the working directory /yang_jueun_site.
+
+git init
+git add .
+git commit -m ""
+git remote orgin URL
+git push origin main
